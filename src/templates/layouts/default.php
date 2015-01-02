@@ -20,7 +20,7 @@
             <nav class="nav">
                 <ul class="nav-list">
                     <li class="nav-item">
-                        <a class="pure-button" href="http://purecss.io">Github</a>
+                        <a class="pure-button" href="https://github.com/scr34m/fail2ban-scoreboard">GitHub</a>
                     </li>
                 </ul>
             </nav>
